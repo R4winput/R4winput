@@ -7,7 +7,6 @@
 **Build things. Break things. Learn how they work.**
 
 [![WEBSITE](https://img.shields.io/badge/Website-RAWINPUT-101011?style=flat-square&logo=google-chrome&logoColor=FDB4BF)](https://raw-input.com)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AYLEN-101011?style=flat-square&logo=linkedin&logoColor=FDB4BF)](https://www.linkedin.com/in/aylen-vega/)
 
 </div>

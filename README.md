@@ -3,15 +3,18 @@
 # AYLEN VEGA
 
 ### CYBERSECURITY · REVERSE ENGINEERING · CREATIVE TECHNOLOGY
-
-> Build things.
-> Break things.
-> Learn how they work.
+Build things. Break things. Learn how they work.
 
 </div>
 <div align="center">
 
-**[WEBSITE ↗](https://raw-input.com)** &nbsp;&nbsp; `//` &nbsp;&nbsp; **[LINKEDIN ↗](https://www.linkedin.com/in/aylen-vega/)**
+<a href="https://raw-input.com">
+  <img src="https://cdn.simpleicons.org/googlechrome/FDB4BF" width="28" alt="Website">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aylen-vega/">
+  <img src="https://cdn.simpleicons.org/linkedin/FDB4BF" width="28" alt="LinkedIn">
+</a>
 
 </div>
 

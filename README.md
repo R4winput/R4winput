@@ -22,8 +22,8 @@ Build things. Break things. Learn how they work.
 </table>
 
 ---
-
-## `01 / ABOUT`
+<div align="left">
+01 / ABOUT
 
 I'm **Aylen**, a cybersecurity student based in Spain, interested in understanding systems from the inside out.
 
@@ -33,11 +33,13 @@ My main focus is **malware analysis, reverse engineering, networking and securit
 
 I like working at the intersection between **breaking things to understand them and building things to make them better**.
 
+</div>
+
 ---
+<div align="left">
+02 / FOCUS
 
-## `02 / FOCUS`
-
-```text
+```
 CYBERSECURITY
 ├── Malware Analysis
 ├── Reverse Engineering
@@ -57,3 +59,5 @@ ENVIRONMENT
 ├── Linux
 ├── Git / GitHub
 └── Security Labs
+```
+</div>

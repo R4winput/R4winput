@@ -4,7 +4,9 @@
 
 ### CYBERSECURITY · REVERSE ENGINEERING · CREATIVE TECHNOLOGY
 
-**Build things. Break things. Learn how they work.**
+> Build things.
+> Break things.
+> Learn how they work.
 
 </div>
 <div align="center">

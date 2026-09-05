@@ -14,7 +14,7 @@ Build things. Break things. Learn how they work.
     </td>
     <td width="40">愛</td>
     <td>
-      <a href="https://www.linkedin.com/in/aylen-vega/">
+      <a href="https://www.linkedin.com/in/aylen-v/">
         <img src="media/Linkedin.png" width="160">
       </a>
     </td>

@@ -9,7 +9,7 @@
 </div>
 <div align="center">
 
-**[WEBSITE](https://raw-input.com)** &nbsp;&nbsp; `//` &nbsp;&nbsp; **[LINKEDIN](https://www.linkedin.com/in/aylen-vega/)**
+**[WEBSITE ↗](https://raw-input.com)** &nbsp;&nbsp; `//` &nbsp;&nbsp; **[LINKEDIN ↗](https://www.linkedin.com/in/aylen-vega/)**
 
 </div>
 

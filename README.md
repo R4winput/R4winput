@@ -5,18 +5,14 @@
 ### CYBERSECURITY · REVERSE ENGINEERING · CREATIVE TECHNOLOGY
 Build things. Break things. Learn how they work.
 
-</div>
-<div align="center">
-
-<a href="https://raw-input.com">
-  <img src="https://cdn.simpleicons.org/googlechrome/FDB4BF" width="28" alt="Website">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/aylen-vega/">
-  <img src="https://cdn.simpleicons.org/linkedin/FDB4BF" width="28" alt="LinkedIn">
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aylen-vega/">
+    <img src="./media/Website.png" width="150" alt="LinkedIn">
+  </a>
+  <a href="https://raw-input.com">
+    <img src="./media/Linkedin.png" width="150" alt="Website">
+  </a>
+</p>
 
 ---
 
